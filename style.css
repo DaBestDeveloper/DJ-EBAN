@@ -1,0 +1,14 @@
+
+body{
+			background: #F73A3A;
+		}
+.center {
+	text-align: center;
+	font-size: 70px;
+	color:#62FB4D;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+ .photo {
+ 	margin:auto;
+ 	display: block;
+ }
