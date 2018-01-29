@@ -1,6 +1,9 @@
 
 body{
 	background-image: url('https://images-cdn.9gag.com/photo/aeGrM3v_700b.jpg');
+	background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 		}
 .center {
 	text-align: center;
